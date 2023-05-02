@@ -1,4 +1,4 @@
 variable "key_pair" {
   type = string
-  default = "nova-keypair"
+  default = "ohio-keypair"
 }
